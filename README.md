@@ -1,34 +1,59 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Navy and cyan banner illustrating connected software systems">
-</p><h1 align="center">Nigel Matekwa Alufwani</h1>
-<p align="center">
-  <strong>Software Engineer · Backend & Full-Stack · Cloud & DevOps</strong><br>
-  Nairobi, Kenya
+  <img src="assets/profile-banner.svg" width="100%" alt="Minimal navy and cyan illustration of connected application and cloud services" />
 </p>
+
+<h1 align="center">Nigel Matekwa Alufwani</h1>
+
 <p align="center">
-  <a href="mailto:nigelmatekwa@gmail.com">Email</a> ·
-  <a href="https://linkedin.com/in/nigel-matekwa">LinkedIn</a> ·
-  <a href="https://github.com/Night-ryder254?tab=repositories">Repositories</a>
-</p>I build business-focused web applications and backend services, with particular attention to reliable data workflows, access control, and maintainable code. My work combines Laravel/PHP and Python/FastAPI with practical cloud, Linux, and containerization experience.
-Selected work
-- SokoTrack — B2B wholesale ordering with M-Pesa integration, USSD, credit terms, and transaction-safe inventory adjustments. Laravel · MySQL · Alpine.js
-- Delivery Management & Tracking — Four-role logistics workflows, QR scanning, authorization policies, and row-locked rider assignment. Laravel · Docker · MySQL
-- ShiftLog — Multi-branch shift and attendance management with scoped access and automated authorization tests. Laravel · MySQL · PHPUnit
-- Northstar Inventory Sync — Inventory API with warehouse polling, HMAC-verified webhooks, and idempotent updates. Python · FastAPI · SQLAlchemy — sprint simulation
-- Solstice Check-In Kiosk — QR check-in with Redis Streams, asynchronous print jobs, and webhook-driven completion. Python · FastAPI · Redis — sprint simulation
-Engineering toolkit
-Languages & backend: PHP · Laravel · Python · FastAPI · JavaScript · SQL · REST APIs
+  <strong>Software Engineer · Backend & Full-Stack Development · Cloud & DevOps</strong><br />
+  <sub>Nairobi, Kenya · BSc Information Technology · AWS Certified Cloud Practitioner</sub>
+</p>
 
-Cloud & delivery: AWS · Docker · Linux · Nginx · Bash · Git/GitHub
+<p align="center">
+  <a href="mailto:nigelmatekwa@gmail.com"><img alt="Email Nigel" src="https://img.shields.io/badge/Email-Contact-0B1220?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nigel-matekwa"><img alt="Nigel on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Night-ryder254?tab=repositories"><img alt="Explore GitHub repositories" src="https://img.shields.io/badge/GitHub-Explore%20Projects-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-Engineering practices: Role-based authorization · database transactions · webhook integrations · automated testing · API and system design
-How I approach engineering
-I focus on the details that make business software dependable: clear permissions, traceable state transitions, consistent database changes, and testable integrations. My portfolio includes practical deployment work and explicitly identified sprint simulations. Individual repositories document their architecture, trade-offs, and setup instructions for reviewers who want to go deeper.
-Credentials & experience
-- BSc Information Technology, KCA University (2026) · AWS Certified Cloud Practitioner · AWS re/START graduate (training).
-- IT Support Attachee, Eastland Hotel Limited (2025): endpoint, network, and infrastructure support.
-- Freelance data annotation & transcription (2023–present): labeling, transcription, and data quality work.
-Work with me
-Open to junior software/backend engineering and cloud/DevOps roles, as well as freelance work on business applications, dashboards, APIs, integrations, and workflow automation.
+I build **business-focused applications and backend services** that handle real workflows reliably—from payments and inventory to logistics and event processing. My work emphasizes **correct data handling, authorization, clean APIs, and practical deployment**.
 
-Have a role or project to discuss? Email me or connect on LinkedIn.
+---
+
+## Featured engineering work
+
+**01 · [SokoTrack](https://github.com/Night-ryder254/sokotrack)** — B2B wholesale platform with M-Pesa payments, USSD ordering, credit workflows, and transaction-safe stock changes.  
+`Laravel` `PHP` `MySQL` `Alpine.js`
+
+**02 · [Delivery Management & Tracking](https://github.com/Night-ryder254/delivery-management-tracking-system)** — Multi-role delivery system with QR verification, audit history, and concurrency-safe rider assignment.  
+`Laravel` `MySQL` `Docker` `Nginx`
+
+**03 · [ShiftLog](https://github.com/Night-ryder254/shiftlog)** — Multi-branch attendance system with role-based access, branch isolation, and authorization tests.  
+`Laravel` `MySQL` `PHPUnit`
+
+**04 · [Northstar Inventory Sync](https://github.com/Night-ryder254/northstar-inventory-sync)** — Inventory API using polling, signed webhooks, and idempotent updates. *Sprint simulation.*  
+`Python` `FastAPI` `SQLAlchemy`
+
+**05 · [Solstice Check-In Kiosk](https://github.com/Night-ryder254/solstice-checkin-kiosk)** — QR check-in with queued print jobs, HMAC-verified callbacks, and asynchronous completion. *Sprint simulation.*  
+`Python` `FastAPI` `Redis Streams`
+
+---
+
+## Tools I work with
+
+| Focus | Technologies & practices |
+| :-- | :-- |
+| **Backend & web** | PHP, Laravel, Python, FastAPI, JavaScript, REST APIs |
+| **Cloud & operations** | AWS, Linux, Docker, Nginx, Bash, Git |
+| **Data & quality** | MySQL, SQLAlchemy, database transactions, access control, testing, webhooks |
+
+## Experience & credentials
+
+- **BSc Information Technology**, KCA University (2026) · **AWS Certified Cloud Practitioner** · **AWS re/START** graduate (training).
+- **IT Support Attachee**, Eastland Hotel Limited (2025) — network, endpoint, and infrastructure troubleshooting.
+- **Freelance data annotation & transcription** (2023–present) — labeling, transcription, and data quality assurance.
+
+## Let's work together
+
+Interested in **junior software/backend engineering**, **cloud/DevOps opportunities**, and **freelance projects** involving web applications, APIs, dashboards, integrations, and workflow automation.
+
+**Have a project or role in mind?** [Email me](mailto:nigelmatekwa@gmail.com) · [Connect on LinkedIn](https://linkedin.com/in/nigel-matekwa)
