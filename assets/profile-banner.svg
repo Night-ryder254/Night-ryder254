@@ -1,1 +1,36 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-labelledby="title description">
+  <title id="title">Systems that connect</title>
+  <desc id="description">Midnight navy software engineering profile banner with cloud and application nodes connected by cyan lines.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A1324"/>
+      <stop offset="100%" stop-color="#111D31"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#67E8F9"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#243B54"/></pattern>
+  </defs>
+  <rect width="1200" height="250" rx="18" fill="url(#background)"/>
+  <rect x="0" y="0" width="1200" height="250" rx="18" fill="url(#dots)" opacity=".65"/>
+  <rect x="0" y="0" width="7" height="250" rx="3" fill="url(#glow)"/>
+  <rect x="53" y="49" width="164" height="30" rx="15" fill="#172C45" stroke="#31516C"/>
+  <circle cx="72" cy="64" r="5" fill="#38BDF8"/>
+  <text x="88" y="69" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#BAE6FD" letter-spacing="1.5">ENGINEERING</text>
+  <text x="52" y="134" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="700" fill="#F4F8FD" letter-spacing="-1">Software that works.</text>
+  <text x="54" y="180" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#AFC3D8" letter-spacing=".4">Backend systems <tspan fill="#38BDF8">/</tspan> cloud <tspan fill="#38BDF8">/</tspan> business workflows</text>
+  <rect x="54" y="201" width="240" height="3" rx="2" fill="url(#glow)"/>
+  <g fill="none" stroke="#2A506C" stroke-width="2.5" stroke-linecap="round">
+    <path d="M852 67H923L960 105H1061"/>
+    <path d="M852 179H923L960 141H1061"/>
+    <path d="M930 123H1000"/>
+  </g>
+  <rect x="770" y="43" width="123" height="46" rx="11" fill="#122942" stroke="#4B88A5" stroke-width="2"/>
+  <rect x="770" y="157" width="123" height="46" rx="11" fill="#122942" stroke="#4B88A5" stroke-width="2"/>
+  <rect x="1011" y="96" width="133" height="58" rx="13" fill="#17405B" stroke="#38BDF8" stroke-width="2.5"/>
+  <text x="831" y="70" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#DCEEF9" text-anchor="middle">APPLICATION</text>
+  <text x="831" y="184" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#DCEEF9" text-anchor="middle">DATABASE</text>
+  <text x="1078" y="130" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#C9F4FF" text-anchor="middle">CLOUD</text>
+  <g fill="#38BDF8"><circle cx="923" cy="67" r="5"/><circle cx="923" cy="179" r="5"/><circle cx="960" cy="123" r="5"/></g>
+</svg>
